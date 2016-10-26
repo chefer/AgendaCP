@@ -1,7 +1,7 @@
-# Agenda
+# AgendaCP
 Projeto desenvolvido para a disciplina Banco de Dados para Computação Móvel (BDM) do curso de Especialização Lato Sensu em Desenvolvimento de Sistemas para Dispositivos Móveis do IFSP São Carlos.
 
-Para ver a documentação, acesse: https://pdalbem.github.io/Agenda/
+Para ver a documentação, acesse: https://pdalbem.github.io/AgendaCP/
 
 ![ScreenShot](https://raw.github.com/pdalbem/Agenda/master/screenshots/screenshot1.jpg)
 
