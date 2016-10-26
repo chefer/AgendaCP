@@ -3,8 +3,6 @@ import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import br.edu.ifspsaocarlos.agendacp.contentprovider.ContatoProvider;
-
 import static br.edu.ifspsaocarlos.agendacp.contentprovider.ContatoProvider.AgendaCPContrato.KEY_EMAIL;
 import static br.edu.ifspsaocarlos.agendacp.contentprovider.ContatoProvider.AgendaCPContrato.KEY_FONE;
 import static br.edu.ifspsaocarlos.agendacp.contentprovider.ContatoProvider.AgendaCPContrato.KEY_ID;
